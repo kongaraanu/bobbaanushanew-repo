@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! from war project using maven deploymentno1...!!</h2>
+<h2>Hello World! from cloubots war project using maven deploymentno2...!!</h2>
 </body>
 </html>
